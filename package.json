@@ -2,7 +2,7 @@
   "name": "easy-storage",
   "description": "Easy and lightweight session,local,cookie storage",
   "author": "Maxim Falaleev <max@studio107.ru> (http://studio107.ru)",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
